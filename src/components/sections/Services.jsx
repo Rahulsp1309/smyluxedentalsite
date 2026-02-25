@@ -70,7 +70,13 @@ const ServiceModal = ({ service, onClose }) => (
                     ))}
                 </ul>
 
-                <Button className="w-full bg-gold-500 hover:bg-gold-600 text-white text-lg py-6 font-playfair shadow-lg" onClick={onClose}>
+                <Button
+                    className="w-full bg-gold-500 hover:bg-gold-600 text-white text-lg py-6 font-playfair shadow-lg"
+                    onClick={() => {
+                        onClose();
+                        document.getElementById('contact')?.scrollIntoView({ behavior: 'smooth' });
+                    }}
+                >
                     Book Consultation
                 </Button>
             </div>
