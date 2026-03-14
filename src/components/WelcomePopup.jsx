@@ -37,7 +37,7 @@ export default function WelcomePopup() {
                             </div>
 
                             <h2 className="text-[28px] font-playfair font-bold text-gold-600 mb-4 leading-[1.15]">
-                                Welcome to<br />Smyluxe<br />Dental Studio!
+                                Welcome to<br />Smyluxe<br />Studios!
                             </h2>
 
                             <p className="text-brown-800 dark:text-cream-200 font-inter text-[15px] font-medium mb-8">

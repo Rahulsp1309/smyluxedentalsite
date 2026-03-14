@@ -41,7 +41,7 @@ export default function Header() {
                         S
                     </div>
                     <span className="text-2xl font-playfair font-bold text-brown-900 dark:text-gold-400">
-                        Smyluxe<span className="text-gold-500">Dental</span>
+                        Smyluxe<span className="text-gold-500">Studios</span>
                     </span>
                 </a>
 

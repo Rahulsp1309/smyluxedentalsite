@@ -75,7 +75,7 @@ const HelpSection = () => {
                         whileInView={{ opacity: 1 }}
                         className="text-gold-600 dark:text-gold-400 font-medium uppercase tracking-widest mb-2"
                     >
-                        Smyluxe Dental
+                        Smyluxe Studios
                     </motion.p>
                     <motion.h2
                         initial={{ opacity: 0, y: 20 }}

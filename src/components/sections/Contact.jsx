@@ -145,7 +145,7 @@ const Contact = () => {
                             <div>
                                 <h4 className="text-xl font-playfair font-bold text-brown-900 dark:text-gold-100 mb-1">Our Location</h4>
                                 <p className="text-brown-800/70 dark:text-cream-200/70 font-inter">
-                                    Shop No. 203, Neo 95 Ravet,<br />Pune, Pimpri-Chinchwad, Maharashtra 412101
+                                    Shop No. 203,2nd Floor, Neo 95 Ravet,<br />Pune, Pimpri-Chinchwad, Maharashtra 412101
                                 </p>
                             </div>
                         </div>
